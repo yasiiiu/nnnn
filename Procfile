@@ -1,1 +1,1 @@
-worker:SNKRSMonitor.py
+worker: SNKRSMonitor.py
